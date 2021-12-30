@@ -1,0 +1,4 @@
+cd /opt/MixStars
+chmod 777 ./xash3d
+tmux
+./xash3d -game cstrike +port 27017 +maxplayers 14 +map de_dust2 +public 1
